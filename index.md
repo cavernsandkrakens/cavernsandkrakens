@@ -1,4 +1,4 @@
-## Welcome to Caverns & Kraverns
+# Caverns & Kraverns
 
 
 ### A D&D podcast
